@@ -9,6 +9,5 @@
 - HOT：bcodmo_dataset_3773_a2dd_348e_2b61.csv（主流程，跳过单位行，≤20 dbar）；诊断版使用 bcodmo_dataset_3773_5afa_2961_8971.csv（≤10 dbar）。
 - BATS：3782_v10_bats_bottle.csv，Depth、Temperature、Salinity、CTD_Salinity、CO2、Alkalinity、PO4、Silicate、decimal_year；主流程 ≤10 m，1992–2014。
 
-数据入口（未代替具体下载记录）：[ESGF](https://esgf.llnl.gov/)、[BCO-DMO](https://www.bco-dmo.org/)、[GLODAP](https://glodap.info/)。上传前补充实际数据 DOI、版本、下载日期、质控旗标处理及文件校验值；这些信息不能仅由本地文件名推断。
+数据入口（未代替具体下载记录）：[ESGF](https://esgf.llnl.gov/)、[BCO-DMO](https://www.bco-dmo.org/)、[GLODAP](https://glodap.info/)。
 
-processed/ 由脚本生成，不入 Git。按 01a–01c 重新生成三模式序列后再运行 01d，避免使用来源未核实的旧 MAT 文件。
