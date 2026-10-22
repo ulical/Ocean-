@@ -1,0 +1,121 @@
+[
+  {
+    "source": "G:\\CMIP6datafordissic\\untitled2.m",
+    "script": "scripts/01a_CESM2_global_pH.m",
+    "sha256_original": "4ea7a2b6968e5b6c38796c929c4981c41ae9933528a6cc91ee55cdcbf8a42c98",
+    "original_comment_lines": 18,
+    "clean_comment_lines": 5
+  },
+  {
+    "source": "G:\\CMIP6dataforph\\mpidata.m",
+    "script": "scripts/01b_MPI_global_pH.m",
+    "sha256_original": "1f3b9ae82669a56441ee5e1eebad7d6f94a2de1caf5e981db69f50330cfc7b03",
+    "original_comment_lines": 39,
+    "clean_comment_lines": 1
+  },
+  {
+    "source": "G:\\CMIP6dataforph\\ipsl.m",
+    "script": "scripts/01c_IPSL_global_pH.m",
+    "sha256_original": "023ea609062258e11f4611c16d3122bf0a3e9637cae623462bd231e625f187d0",
+    "original_comment_lines": 14,
+    "clean_comment_lines": 5
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\threemode.m",
+    "script": "scripts/01d_three_model_pH.m",
+    "sha256_original": "84cd01075dee3749105042a37fc50b77eb7ae23d93a3e80dc4b55c00c2cb267f",
+    "original_comment_lines": 3,
+    "clean_comment_lines": 2
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\hotbats.m",
+    "script": "scripts/02a_HOT_pH.m",
+    "sha256_original": "e427b7ce6baf4acd710346b304d5779adb527ce0a61dbc503ae052b27c9519b9",
+    "original_comment_lines": 15,
+    "clean_comment_lines": 7
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\bats.m",
+    "script": "scripts/02b_BATS_pH.m",
+    "sha256_original": "b45429e2f2e297a34b717ca6264eb48657c3f99821d0b03d5b3c247542320e96",
+    "original_comment_lines": 10,
+    "clean_comment_lines": 3
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\hotbatpic.m",
+    "script": "scripts/02c_HOT_BATS_plot.m",
+    "sha256_original": "75027ff67aebf728ef5f24692fcb787bedaa2cdfdf91c59ea103487e4cd85c90",
+    "original_comment_lines": 8,
+    "clean_comment_lines": 2
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\glo.m",
+    "script": "scripts/03_CESM2_GLODAP_profiles.m",
+    "sha256_original": "37b235c9bfe7e8dc65cc8a2a5c44b91703297ad1e0de229ad7f3a5dc34409645",
+    "original_comment_lines": 44,
+    "clean_comment_lines": 6
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\porfilebats.m",
+    "script": "scripts/04_MPI_GLODAP_profiles.m",
+    "sha256_original": "02175829ba472569f7944795d5d47b67fd22281a152852ff4a73f152bc43fa70",
+    "original_comment_lines": 36,
+    "clean_comment_lines": 5
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\ipslprofile.m",
+    "script": "scripts/05_IPSL_GLODAP_profiles.m",
+    "sha256_original": "a11147d708bf86d6d50cfe22a1f247f33e73cabe9b490950c49510de7264b4aa",
+    "original_comment_lines": 49,
+    "clean_comment_lines": 7
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\cesmtsdataprocess.m",
+    "script": "scripts/06_CESM2_surface_TS.m",
+    "sha256_original": "83a6c872edfe7fc068e9dd00359712b440df7cf190497a609f6f04f59c53a5f3",
+    "original_comment_lines": 17,
+    "clean_comment_lines": 2
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\seldconsis.m",
+    "script": "scripts/07a_station_pH_consistency.m",
+    "sha256_original": "41b8d47053f611acd456096d06fefa3b67bdac04be810456874e4bd0371c61c9",
+    "original_comment_lines": 26,
+    "clean_comment_lines": 7
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\selfcons2014.m",
+    "script": "scripts/07b_global_pH_consistency_2014.m",
+    "sha256_original": "130cdd2ceb126db1ff9ff02f126601647364428ee14f4b6487bf5c42ed6b5c25",
+    "original_comment_lines": 59,
+    "clean_comment_lines": 7
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\rcompute.m",
+    "script": "scripts/08_CESM2_Revelle_endpoints.m",
+    "sha256_original": "a3463cdac2cba4b38d98b6d3b63bd89b771b5acadd2b22e0c1c9ed00167838ed",
+    "original_comment_lines": 45,
+    "clean_comment_lines": 4
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\trendr.m",
+    "script": "scripts/09_CESM2_Revelle_trend.m",
+    "sha256_original": "ab42a7f2aae64c4bdfc994933ba531777ee07a96e0281bcf87dd2c5d7e5e4436",
+    "original_comment_lines": 65,
+    "clean_comment_lines": 16
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\hots1.m",
+    "script": "diagnostics/HOT_10dbar_check.m",
+    "sha256_original": "294165dc12f5b3aab579685acfe88007d650d73b5c30ae5435a1551cfd578c55",
+    "original_comment_lines": 9,
+    "clean_comment_lines": 1
+  },
+  {
+    "source": "G:\\CMIP6datafordissic\\untitled.m",
+    "script": "diagnostics/netcdf_levels.m",
+    "sha256_original": "0ace7a112b560862db42fae5a473c6357b7d1986e8715e3b760f1d39e637c09b",
+    "original_comment_lines": 1,
+    "clean_comment_lines": 0
+  }
+]
